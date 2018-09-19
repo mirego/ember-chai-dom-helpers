@@ -1,3 +1,5 @@
+/* eslint-env node */
+
 'use strict';
 
 const getChannelURL = require('ember-source-channel-url');

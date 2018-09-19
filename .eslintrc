@@ -7,6 +7,9 @@
       "experimentalObjectRestSpread": true
     }
   },
+  "extends": [
+    "plugin:mirego/recommended"
+  ],
   "rules": {
     "array-bracket-spacing": [2, "never"],
     "arrow-spacing": 2,
