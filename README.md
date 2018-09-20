@@ -8,6 +8,14 @@ A set of chai assertions ready for your DOM.
 $ ember install ember-chai-dom-helpers
 ```
 
+In your `/tests/test-helper.js` file, simply add :
+
+```js
+import setupChaiDomHelpers from 'ember-chai-dom-helpers/test-support/setup';
+
+setupChaiDomHelpers();
+```
+
 ## Usage
 
 The assertion subject have to be one of the following:
