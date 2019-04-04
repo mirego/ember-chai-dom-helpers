@@ -1,6 +1,11 @@
-# ember-chai-dom-helpers
-
-A set of chai assertions ready for your DOM.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/11348/55554933-09cb5a00-56b2-11e9-828d-e3cd6104f596.png" width="600" />
+  <p><br />A set of <a href="https://www.chaijs.com">Chai</a> assertions ready for your DOM.</p>
+  <p>
+    <a href="https://travis-ci.com/mirego/ember-chai-dom-helpers"><img src="https://travis-ci.com/mirego/ember-chai-dom-helpers.svg?branch=master" /></a>
+    <a href="https://www.npmjs.com/package/ember-chai-dom-helpers"><img src="https://img.shields.io/npm/v/ember-chai-dom-helpers.svg" /></a>
+  </p>
+</div>
 
 ## Installation
 
@@ -116,6 +121,8 @@ expect('.something').to.not.have.value('foobar');
 
 `ember-chai-dom-helpers` is © 2018 [Mirego](http://www.mirego.com) and may be freely distributed under the [New BSD license](http://opensource.org/licenses/BSD-3-Clause).
 See the [`LICENSE.md`](https://github.com/mirego/ember-chai-dom-helpers/blob/master/LICENSE.md) file.
+
+The cup logo is based on [this lovely icon by MHD AZMI DWIPRANATA](https://thenounproject.com/term/tea-cup/2158540), from The Noun Project. Used under a [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/) license.
 
 ## About Mirego
 
