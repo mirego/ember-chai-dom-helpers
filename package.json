@@ -34,7 +34,7 @@
     "ember-cli-htmlbars": "1.1.1",
     "ember-cli-htmlbars-inline-precompile": "0.4.0",
     "ember-cli-inject-live-reload": "1.4.1",
-    "ember-cli-mocha": "0.15.0",
+    "ember-mocha": "0.15.1",
     "ember-cli-shims": "1.1.0",
     "ember-cli-sri": "2.1.0",
     "ember-cli-uglify": "1.2.0",
@@ -43,6 +43,7 @@
     "ember-load-initializers": "1.0.0",
     "ember-resolver": "4.0.0",
     "ember-source": "~2.13.0",
+    "ember-try": "1.2.1",
     "eslint": "4.0.0",
     "eslint-plugin-mirego": "0.0.1",
     "loader.js": "4.2.3"
