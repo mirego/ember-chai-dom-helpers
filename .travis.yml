@@ -14,16 +14,11 @@ cache:
     - node_modules
 
 env:
-  - EMBER_TRY_SCENARIO=ember-lts-3.4-without-fastboot
-  - EMBER_TRY_SCENARIO=ember-lts-3.8-without-fastboot
-  - EMBER_TRY_SCENARIO=ember-release-without-fastboot
-  - EMBER_TRY_SCENARIO=ember-beta-without-fastboot
-  - EMBER_TRY_SCENARIO=ember-canary-without-fastboot
-  - EMBER_TRY_SCENARIO=ember-lts-3.4-with-fastboot
-  - EMBER_TRY_SCENARIO=ember-lts-3.8-with-fastboot
-  - EMBER_TRY_SCENARIO=ember-release-with-fastboot
-  - EMBER_TRY_SCENARIO=ember-beta-with-fastboot
-  - EMBER_TRY_SCENARIO=ember-canary-with-fastboot
+  - EMBER_TRY_SCENARIO=ember-lts-3.4
+  - EMBER_TRY_SCENARIO=ember-lts-3.8
+  - EMBER_TRY_SCENARIO=ember-release
+  - EMBER_TRY_SCENARIO=ember-beta
+  - EMBER_TRY_SCENARIO=ember-canary
 
 matrix:
   fast_finish: true
