@@ -3,11 +3,11 @@ language: node_js
 node_js:
   - 10.14.1
 
-sudo: false
-
-dist: trusty
+sudo: required
 addons:
   chrome: stable
+
+dist: trusty
 
 cache:
   directories:
