@@ -77,7 +77,7 @@ export default () => {
   });
 
   chai.Assertion.addMethod('htmlContent', function(expectedHtml) {
-    const actualHtml = elementFrom(this._obj).innerHTML;
+    const actualHtml = elementFrom(this._obj).innerHTML.trim();
 
     this.assert(
       actualHtml === expectedHtml,
