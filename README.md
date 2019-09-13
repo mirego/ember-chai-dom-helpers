@@ -119,7 +119,7 @@ expect('.something').to.not.have.value('foobar');
 
 ## License
 
-`ember-chai-dom-helpers` is © 2018 [Mirego](http://www.mirego.com) and may be freely distributed under the [New BSD license](http://opensource.org/licenses/BSD-3-Clause).
+`ember-chai-dom-helpers` is © 2019 [Mirego](http://www.mirego.com) and may be freely distributed under the [New BSD license](http://opensource.org/licenses/BSD-3-Clause).
 See the [`LICENSE.md`](https://github.com/mirego/ember-chai-dom-helpers/blob/master/LICENSE.md) file.
 
 The cup logo is based on [this lovely icon by MHD AZMI DWIPRANATA](https://thenounproject.com/term/tea-cup/2158540), from The Noun Project. Used under a [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/) license.
