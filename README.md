@@ -1,8 +1,4 @@
-***
-
 **⚠️ This project is deprecated and no longer maintained by Mirego. It’s only available as a read-only repository.**
-
-***
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/11348/55554933-09cb5a00-56b2-11e9-828d-e3cd6104f596.png" width="600" />
